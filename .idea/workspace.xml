@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2932c178-75f8-46a5-8372-5efc895d5f1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/GornerTableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GornerTableModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GornerTableCellRenderer.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577445143173</updated>
-      <workItem from="1577445146235" duration="1495000" />
+      <workItem from="1577445146235" duration="1648000" />
     </task>
     <servers />
   </component>
