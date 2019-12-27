@@ -47,3 +47,18 @@ public class GornerTableModel extends AbstractTableModel {
             return result;
         }
     }
+    public String getColumnName(int col) {
+        switch (col) {
+            case 0:
+// Название 1-го столбца
+                return "Значение X";
+            default:
+// Название 2-го столбца
+                return "Значение многочлена";
+        }
+    }
+    public Class<?> getColumnClass(int col) {
+// И в 1-ом и во 2-ом столбце находятся значения типа Double
+        return Double.class;
+    }
+}
